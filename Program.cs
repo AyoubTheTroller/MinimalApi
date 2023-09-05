@@ -10,5 +10,6 @@ var bookController = new BookController(bookService);
 
 app.MapGet("/books", () => bookController.GetAllBooks());
 app.MapGet("/books/{id}", (int id) => bookController.GetBookById(id));
+app.MapPost("/books/create", (Book newBook) => bookController.AddBook(newBook));
 
 app.Run();

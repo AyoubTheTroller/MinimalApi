@@ -1,0 +1,1 @@
+curl -X POST "http://localhost:5072/books/create" -H "Content-Type: application/json" -d "{\"Id\": 3, \"Title\": \"New Book\", \"Author\": \"New Author\"}"

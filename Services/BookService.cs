@@ -13,6 +13,12 @@ namespace MyApp.Services
         public IEnumerable<Book>? GetAllBooks() => _books;
 
         public Book? GetBookById(int id) => _books?.FirstOrDefault(b => b.Id == id);
+
+        public Book AddBook(Book newBook)
+        {
+            _books?.Add(newBook);
+            return newBook;
+        }
         
     }
 }

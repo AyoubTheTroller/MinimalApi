@@ -27,5 +27,11 @@ namespace MyApp.Controllers
 
             return Results.Ok(book);
         }
+
+        public object AddBook(Book newBook)
+        {
+            var book = _bookService.AddBook(newBook);
+            return Results.Created($"/books/create{book.Id}", book);
+        }
     }
 }
