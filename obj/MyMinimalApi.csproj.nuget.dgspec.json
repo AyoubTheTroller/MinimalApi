@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Lavoro\\Desktop\\Random Projects\\ASP.NET\\MyMinimalApi\\MyMinimalApi.csproj": {}
+    "C:\\Users\\Lavoro\\Desktop\\Random Projects\\ASP.NET\\MyMinimalApi\\MyMinimalApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Lavoro\\Desktop\\Random Projects\\ASP.NET\\MyMinimalApi\\MyMinimalApi.csproj": {
+    "C:\\Users\\Lavoro\\Desktop\\Random Projects\\ASP.NET\\MyMinimalApi\\MyMinimalApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Lavoro\\Desktop\\Random Projects\\ASP.NET\\MyMinimalApi\\MyMinimalApi.csproj",
+        "projectUniqueName": "C:\\Users\\Lavoro\\Desktop\\Random Projects\\ASP.NET\\MyMinimalApi\\MyMinimalApi.csproj",
         "projectName": "MyMinimalApi",
-        "projectPath": "c:\\Users\\Lavoro\\Desktop\\Random Projects\\ASP.NET\\MyMinimalApi\\MyMinimalApi.csproj",
+        "projectPath": "C:\\Users\\Lavoro\\Desktop\\Random Projects\\ASP.NET\\MyMinimalApi\\MyMinimalApi.csproj",
         "packagesPath": "C:\\Users\\Lavoro\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Lavoro\\Desktop\\Random Projects\\ASP.NET\\MyMinimalApi\\obj\\",
+        "outputPath": "C:\\Users\\Lavoro\\Desktop\\Random Projects\\ASP.NET\\MyMinimalApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lavoro\\AppData\\Roaming\\NuGet\\NuGet.Config"
