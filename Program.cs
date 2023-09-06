@@ -3,6 +3,7 @@ using MyApp.Models;
 using MyApp.Services;
 
 var builder = WebApplication.CreateBuilder(args);
+
 var app = builder.Build();
 
 var bookService = new BookService();

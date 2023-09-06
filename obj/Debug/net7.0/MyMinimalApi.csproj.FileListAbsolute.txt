@@ -5,6 +5,11 @@ C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\bin\Debug\net7.0\My
 C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\bin\Debug\net7.0\MyMinimalApi.runtimeconfig.json
 C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\bin\Debug\net7.0\MyMinimalApi.dll
 C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\bin\Debug\net7.0\MyMinimalApi.pdb
+C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\obj\Debug\net7.0\MyMinimalApi.csproj.AssemblyReference.cache
 C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\obj\Debug\net7.0\MyMinimalApi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\obj\Debug\net7.0\MyMinimalApi.AssemblyInfoInputs.cache
 C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\obj\Debug\net7.0\MyMinimalApi.AssemblyInfo.cs
@@ -18,6 +23,7 @@ C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\obj\Debug\net7.0\st
 C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\obj\Debug\net7.0\scopedcss\bundle\MyMinimalApi.styles.css
+C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\obj\Debug\net7.0\MyMinimalApi.csproj.CopyComplete
 C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\obj\Debug\net7.0\MyMinimalApi.dll
 C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\obj\Debug\net7.0\refint\MyMinimalApi.dll
 C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\obj\Debug\net7.0\MyMinimalApi.pdb

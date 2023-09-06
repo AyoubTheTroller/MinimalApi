@@ -14,6 +14,9 @@ namespace MyApp.Controllers
 
         public IEnumerable<Book>? GetAllBooks()
         {
+            /*var books = _bookService.GetAllBooks();
+            var serializedBooks = JsonConvert.SerializeObject(books);
+            return Results.Ok(serializedBooks);*/
             return _bookService.GetAllBooks();
         }
 
@@ -31,17 +34,17 @@ namespace MyApp.Controllers
         public object AddBook(Book newBook)
         {
             var book = _bookService.AddBook(newBook);
-            return Results.Created($"/books/create{book.Id}", book);
+            return Results.Created($"/books/create", book);
         }
 
         public object UpdateBook(int id, Book updated){
             var book = _bookService.UpdateBook(id,updated);
-            return Results.Created($"/books/update{book?.Id}", book);
+            return Results.Created($"/books/update/{book?.Id}", book);
         }
 
         public object DeleteBook(int id){
             var book = _bookService.DeleteBook(id);
-            return Results.Created($"/books/delete{book?.Id}", book);
+            return Results.Created($"/books/delete/{book?.Id}", book);
         }
     }
 }

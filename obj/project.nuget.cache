@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "wdry9pJj4IswloR+Nr/9/8M1sVGy8leYqhzAktja3ouXimH6EmVSrkBhwiQdcvjiSTmsfxXmUh0PdRJ5ACcSUQ==",
+  "dgSpecHash": "jBHsZDHZKfmV2uQCVLhAfbm5cSJHluqcw2hPLoM42miBVcJE2Z78NMZeigqKUEumF2JM1coOQWPK7y+oeoYv4Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lavoro\\Desktop\\Random Projects\\ASP.NET\\MyMinimalApi\\MyMinimalApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Lavoro\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.10\\microsoft.aspnetcore.jsonpatch.7.0.10.nupkg.sha512",
+    "C:\\Users\\Lavoro\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.10\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.10.nupkg.sha512",
+    "C:\\Users\\Lavoro\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Lavoro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Lavoro\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
