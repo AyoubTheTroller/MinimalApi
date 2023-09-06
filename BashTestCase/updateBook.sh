@@ -1,0 +1,1 @@
+curl -X PUT "http://localhost:5072/books/update/1" -H "Content-Type: application/json" -d "{\"Id\": 3, \"Title\": \"New Troller\", \"Author\": \"New Troller\"}"

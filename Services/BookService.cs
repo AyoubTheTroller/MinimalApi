@@ -20,5 +20,24 @@ namespace MyApp.Services
             return newBook;
         }
         
+        public Book? UpdateBook(int id, Book newBook){
+            var book = GetBookById(id);
+            if (book != null)
+            {
+                book.Author = newBook.Author;
+                book.Title = newBook.Title;
+            }
+            return book;
+        }
+
+        public Book? DeleteBook(int id){
+            var book = GetBookById(id);
+            if (book != null)
+            {
+                _books?.Remove(book);
+            }
+            return book;
+        }
+
     }
 }

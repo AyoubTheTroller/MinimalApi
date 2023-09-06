@@ -12,4 +12,7 @@ app.MapGet("/books", () => bookController.GetAllBooks());
 app.MapGet("/books/{id}", (int id) => bookController.GetBookById(id));
 app.MapPost("/books/create", (Book newBook) => bookController.AddBook(newBook));
 
+app.MapPut("/books/update/{id}", (int id, Book updatedBook) => bookController.UpdateBook(id, updatedBook));
+app.MapDelete("/books/delete/{id}", (int id) => bookController.DeleteBook(id));
+
 app.Run();

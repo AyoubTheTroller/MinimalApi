@@ -1,0 +1,1 @@
+curl -X DELETE "http://localhost:5072/books/delete/1"
