@@ -29,3 +29,4 @@ C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\obj\Debug\net7.0\re
 C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\obj\Debug\net7.0\MyMinimalApi.pdb
 C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\obj\Debug\net7.0\MyMinimalApi.genruntimeconfig.cache
 C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\obj\Debug\net7.0\ref\MyMinimalApi.dll
+C:\Users\Lavoro\Desktop\Random Projects\ASP.NET\MyMinimalApi\bin\Debug\net7.0\filmData.json
